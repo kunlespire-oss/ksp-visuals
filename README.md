@@ -35,4 +35,4 @@ KSP VISUALS is a personal photography portfolio designed to showcase different s
 
 ## Author
 
-[Oluwafemi Saliu]
+Oluwafemi Saliu
